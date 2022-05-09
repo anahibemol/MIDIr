@@ -1,4 +1,7 @@
 # MIDIr
+
+THIS IS A WORK IN PROGRESS (WIP)
+
 MIDI-based esolang made for fun, still not workable but available if someone actually knows how to implement it.
 
 As i know next to nothing in programming, i'm just following some of the basic rules of C# since it's the only language i've worked on.
@@ -23,4 +26,4 @@ There are some useful characters to keep in mind too
 
 ![image](https://user-images.githubusercontent.com/104397117/167450397-6c8c9f31-b458-464d-8e8f-b311b4b04aab.png)
 
-aditionally, the command 
+aditionally, the command also starts with an A Chord (with the root in A4), certain Chords are shorthands for Methods, Variables, etc. and they will have their own documentation further the road.
