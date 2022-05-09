@@ -11,11 +11,16 @@ First you must use a program that can write MIDI files, be it any DAW with a Pia
 
 For example, this is the "Hello World" Program that writes all letters from A to Z
 
-The MIDI is equivalent to ` Console.WriteLine("ABCDEFGHIJKLMNOPQRSTUVWXYZ")`
+![image](https://user-images.githubusercontent.com/104397117/167451669-1bbe027b-9c3b-42ef-86e3-345236ada574.png)
+
+The MIDI is equivalent to ` Console.Write("ABCDEFGHIJKLMNOPQRSTUVWXYZ")`
 
 The Dictionary goes as
 
 ![image](https://user-images.githubusercontent.com/104397117/167449193-e6886e77-f69b-410c-8fd7-ee39572fa1ee.png)
 
+There are some useful characters to keep in mind too
 
-for putting the Letter on Lower case, just put the C0 Note playing on the exact same time as it.
+![image](https://user-images.githubusercontent.com/104397117/167450397-6c8c9f31-b458-464d-8e8f-b311b4b04aab.png)
+
+aditionally, the command 
