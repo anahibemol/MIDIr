@@ -15,65 +15,7 @@ The MIDI is equivalent to ` Console.WriteLine("ABCDEFGHIJKLMNOPQRSTUVWXYZ")`
 
 The Dictionary goes as
 
+![image](https://user-images.githubusercontent.com/104397117/167449193-e6886e77-f69b-410c-8fd7-ee39572fa1ee.png)
 
-
-`
-A1 -> A Letter
-
-B1 -> B Letter
-
-C1 -> C Letter (it is the lower than A and B on the Piano roll but it would be confusing to put A on it)
-
-D1 -> D Letter
-
-E1 -> E Letter
-
-F1 -> F Letter
-
-G1 -> G Letter
-
-
-
-C2 -> H Letter
-
-D2 -> I Letter
-
-E2 -> J Letter
-
-F2 -> L Letter
-
-G2 -> K Letter
-
-A2 -> M Letter
-
-B2 -> N Letter
-
-
-
-C3 -> O Letter
-
-D3 -> P Letter
-
-E3 -> Q Letter
-
-F3 -> R Letter
-
-G3 -> S Letter
-
-A3 -> T Letter
-
-B3 -> U Letter
-
-C4 -> V Letter
-
-D4 -> W Letter
-
-E4 -> X Letter
-
-F4 -> Y Letter
-
-G4 -> Z Letter
-
-`
 
 for putting the Letter on Lower case, just put the C0 Note playing on the exact same time as it.
