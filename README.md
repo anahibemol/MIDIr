@@ -6,17 +6,17 @@ MIDI-based esolang made for fun, still not workable but available if someone act
 
 As i know next to nothing in programming, i'm just following some of the basic rules of C# since it's the only language i've worked on.
 
-![MIDIr Logo](https://user-images.githubusercontent.com/104397117/167442775-53d24e80-8245-4e73-b0f9-e63d3cec66d8.png)
+
 
 So, how do you write code on it ?
 
 First you must use a program that can write MIDI files, be it any DAW with a Piano Roll (like FL Studio), a tracker with MIDI Support or a score/engraving program (like Musescore or Sibelius), you can manually edit the MIDI using a code editor but with a proper program it is more practical.
 
-For example, this is the "Hello World" Program that writes all letters from A to Z
+For example, this is the "Hello World" Program.
 
-![image](https://user-images.githubusercontent.com/104397117/167451669-1bbe027b-9c3b-42ef-86e3-345236ada574.png)
+<img src="https://user-images.githubusercontent.com/104397117/167509596-824b46f8-49b9-48d9-bf6e-9820c8129048.png" width="200" height="200">
 
-The MIDI is equivalent to ` Console.Write("ABCDEFGHIJKLMNOPQRSTUVWXYZ")`
+The MIDI is equivalent to ` Console.Write("Hello World")` in C#
 
 The Dictionary goes as
 
