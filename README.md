@@ -4,9 +4,9 @@ THIS IS A WORK IN PROGRESS (WIP)
 
 MIDI-based esolang made for fun, still not workable but available if someone actually knows how to implement it.
 
+<img src="https://user-images.githubusercontent.com/104397117/167529410-a3f4a998-2f11-46b8-ba42-cffca7b88df2.png" width="400" height="400">
+
 As i know next to nothing in programming, i'm just following some of the basic rules of C# since it's the only language i've worked on.
-
-
 
 So, how do you write code on it ?
 
